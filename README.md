@@ -19,7 +19,7 @@
 
 ## Getting Started
 
-- Clone the repo to your local environment, you have to seperately install all the dependencies for backend and frontend. 
+- Clone the repo to your local environment, you have to separately install all the dependencies for backend and frontend. 
 
 ---
 
@@ -43,7 +43,7 @@
     - REDIS_PORT = ""
 ---
 
-### [Note: Make sure the .env files variables matches with that of the config files.]
+### [Note: Make sure the variables of the .env file match with that of the config files.]
   
 ---
  
@@ -54,7 +54,7 @@
 
 ---
 
-### [Note: you have to do npm start for backend and frontend seperately.]
+### [Note: you have to do npm start for backend and frontend separately.]
 
 ---
 
