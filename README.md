@@ -84,3 +84,6 @@
 - [x] Teachers can see their uploaded courses
 - [x] Teachers can delete their course
 - [x] Teachers can edit their course
+---
+
+<img src="https://media.giphy.com/media/42D5ycv3au9s8MQtrU/giphy.gif" width="500" />
