@@ -21,7 +21,9 @@
 
 - Clone the repo to your local environment, you have to seperately install all the dependencies for backend and frontend. 
 
-- For Backend, go to the backend folder (cd Backend) and run 
+---
+
+-> For Backend, go to the backend folder (cd Backend) and run 
 ``` npm i ```
 
   - Use [MongoDB Cloud Storage](https://www.mongodb.com/) or you can Install [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
@@ -45,7 +47,7 @@
   
 ---
  
-- For Frontend, go to the frontend folder (cd Front-end) and run
+-> For Frontend, go to the frontend folder (cd Front-end) and run
 ``` npm i ```
 
 - To run a development environment, you can use the `npm start` command. This will start up a development web server on port 3000 for frontend, and a nodemon-watched API server on port 8080.
