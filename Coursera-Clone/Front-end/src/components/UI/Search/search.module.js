@@ -1,0 +1,50 @@
+.searchItems {
+  position: absolute;
+  background: white;
+  border-radius: 3px;
+  width: auto;
+  white-space: nowrap;
+}
+
+.searchItems ul {
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  padding-right: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 220px;
+  border: 1px solid #8080809e;
+  border-radius:4px;
+}
+
+.searchItems ul li {
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  border-bottom: 1px solid rgb(202, 199, 199);
+  padding-bottom: 20px;
+  padding-top: 10px;
+  color: #5e6474;
+  border-radius: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.searchItems ul li:hover {
+  cursor: pointer;
+  background: #e9ecef;
+}
+
+.name span {
+  margin-left: 10px;
+  /* opacity: 0.6; */
+}
+.author{
+  padding:4px;
+  border-radius:12px;
+  border:2px solid #2D81F7;
+  background:#5d98eb59;
+  color:#0000ffc9;
+}
