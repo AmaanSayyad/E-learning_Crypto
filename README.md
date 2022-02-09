@@ -17,7 +17,7 @@
 ### ~ Fully Fledged, Automated and Responsive Multi Page Application.
 ----
 
-## Getting Started
+## 📌 Getting Started
 
 - Clone the repo to your local environment, you have to separately install all the dependencies for backend and frontend. 
 
@@ -58,7 +58,7 @@
 
 ---
 
-#### Implemented Features Overview:
+#### 📌 Implemented Features Overview:
 
 -For Student's
 - [x] Authentication with signup, login, OTP, resend OTP, forgot password (fully validated with bootstrap alerts)
